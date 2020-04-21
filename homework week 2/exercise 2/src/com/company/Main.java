@@ -1,6 +1,6 @@
 package com.company;
 
-import java.util.Random;
+        import java.util.Random;
 
 public class Main {
 
