@@ -1,5 +1,5 @@
 package com.company;
-kur
+
 import java.util.Random;
 import java.util.Scanner;
 
